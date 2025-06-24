@@ -1,0 +1,42 @@
+{
+  "image_path": "../datasets/fruits_yolo/val/carrot/Carrot 1_r0_116_100.jpg",
+  "detections": [
+    {
+      "region_id": 0,
+      "bbox": [
+        26,
+        0,
+        47,
+        100
+      ],
+      "centroid": [
+        49,
+        50
+      ],
+      "class": "zucchini",
+      "confidence": 0.9605039954185486,
+      "top_classes": [
+        [
+          "zucchini",
+          0.9605039954185486
+        ],
+        [
+          "blueberry",
+          0.013671082444489002
+        ],
+        [
+          "banana",
+          0.011975418776273727
+        ],
+        [
+          "fig",
+          0.011814175173640251
+        ],
+        [
+          "dates",
+          0.001749201794154942
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "image_path": "../datasets/fruits_yolo/val/cantaloupe/Cantaloupe 2_306_100.jpg",
+  "detections": [
+    {
+      "region_id": 0,
+      "bbox": [
+        18,
+        0,
+        82,
+        100
+      ],
+      "centroid": [
+        61,
+        54
+      ],
+      "class": "cantaloupe",
+      "confidence": 0.9999992847442627,
+      "top_classes": [
+        [
+          "cantaloupe",
+          0.9999992847442627
+        ],
+        [
+          "cocos",
+          4.881188147010107e-07
+        ],
+        [
+          "pomelo",
+          1.3598034342976462e-07
+        ],
+        [
+          "kiwi",
+          6.06684267268065e-08
+        ],
+        [
+          "limes",
+          4.96712608821781e-08
+        ]
+      ]
+    }
+  ]
+}

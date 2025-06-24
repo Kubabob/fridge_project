@@ -1,0 +1,42 @@
+{
+  "image_path": "../datasets/fruits_yolo/val/hazelnut/Hazelnut 1_r_263_100.jpg",
+  "detections": [
+    {
+      "region_id": 0,
+      "bbox": [
+        0,
+        13,
+        100,
+        74
+      ],
+      "centroid": [
+        50,
+        50
+      ],
+      "class": "hazelnut",
+      "confidence": 0.99522864818573,
+      "top_classes": [
+        [
+          "hazelnut",
+          0.99522864818573
+        ],
+        [
+          "cherry",
+          0.004604130983352661
+        ],
+        [
+          "huckleberry",
+          9.357522503705695e-05
+        ],
+        [
+          "grape",
+          5.261142359813675e-05
+        ],
+        [
+          "blueberry",
+          1.805267675081268e-05
+        ]
+      ]
+    }
+  ]
+}
