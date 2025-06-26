@@ -21,7 +21,7 @@ A computer vision system for food recognition using YOLO (You Only Look Once) se
 
 ## 🛠️ Technologies
 
-- **YOLO11n-seg**: Lightweight segmentation model from the YOLOv8 family
+- **YOLO11n-seg**: Lightweight segmentation model
 - **PyTorch**: Deep learning framework
 - **COCO Dataset Format**: For initial data preparation
 - **GPU Acceleration**: For efficient model training
@@ -177,7 +177,7 @@ System wizji komputerowej do rozpoznawania żywności wykorzystujący modele seg
 
 ## 🛠️ Technologie
 
-- **YOLO11n-seg**: Lekki model segmentacji z rodziny YOLOv8
+- **YOLO11n-seg**: Lekki model segmentacji
 - **PyTorch**: Framework do głębokiego uczenia
 - **Format Danych COCO**: Do wstępnego przygotowania danych
 - **Akceleracja GPU**: Do efektywnego treningu modelu
